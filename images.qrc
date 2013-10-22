@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Dictionary.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,25 @@
+按一下步骤安装zinnia
+下载包：http://sourceforge.net/projects/zinnia/files/
+下载包：zinnia-0.06.tar.gz和包zinnia-tomoe-0.6.0-20080911
+此包我将放在打包一起给大家
+
+安装zinnia-0.06.tar.gz输入以下命令：
+% tar zxfv zinnia-X.X.tar.gz
+ % cd zinnia-X.X
+ % ./configure
+ % make
+ % su
+ # make install
+
+安装zinnia-tomoe-0.6.0-20080911包输入：
+% tar zxfv zinnia-tomoe-XXXX.tar.gz
+% zinnia-tomoe-XXXX
+% ./configure
+% make
+% su
+# make install
+
+zinnia的说明文档请参考：
+http://zinnia.sourceforge.net/
+
+
